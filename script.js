@@ -1,0 +1,1 @@
+function saveName(){localStorage.setItem('student',document.getElementById('student-name').value);alert('ok');}
